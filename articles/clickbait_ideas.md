@@ -1,2 +1,3 @@
 - Talk to Linus Torvalds
 - Research competition
+- Sell book on street
