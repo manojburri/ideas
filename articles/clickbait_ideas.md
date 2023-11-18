@@ -1,0 +1,2 @@
+- Talk to Linus Torvalds
+- Research competition
